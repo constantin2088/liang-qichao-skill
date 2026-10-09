@@ -1,3 +1,11 @@
+<!-- SERIES:START -->
+> **属于 [Chinese Thinkers as Skills 系列](https://github.com/constantin2088/chinese-thinkers-skills)** · [完整作品目录](https://github.com/constantin2088/chinese-thinkers-skills#作品目录)
+
+**相关推荐**：[叶茂中·冲突营销](https://github.com/constantin2088/ye-maozhong-skill)
+
+> 系列入口与推荐由总仓库 catalog/skills.json 生成。
+<!-- SERIES:END -->
+
 <div align="center">
 
 # 梁启超·自新与变局 Skill
